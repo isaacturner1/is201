@@ -13,6 +13,7 @@ font-size: small;
 
 .fstyle {
     font-family: 'Courier New', Courier, monospace;
+    position: relative;
 }
 
 a {
